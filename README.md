@@ -11,7 +11,7 @@ It was built using:
 * Authentication by Password/Username using PostgreSQL
 * Docker
 * RPC
-* gRPC (Coming soon)
+* gRPC
 * Kubernetes (Coming Soon)
 * Docker Swarm (Coming Soon)
 
