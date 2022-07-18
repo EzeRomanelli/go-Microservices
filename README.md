@@ -10,6 +10,7 @@ It was built using:
 * Go Templates
 * Authentication by Password/Username using PostgreSQL
 * Docker
+* RPC
 * gRPC (Coming soon)
 * Kubernetes (Coming Soon)
 * Docker Swarm (Coming Soon)
