@@ -17,4 +17,6 @@ It was built using:
 To run and test the application, simply clone the repo and go into the project directory, and run make up_build (to trigger the docker build)
 , then run make start (to start the frontend)
 
+By default, the frontend is going to be deployed at port :80, on localhost.
+
 Any feedback is appreciated!
